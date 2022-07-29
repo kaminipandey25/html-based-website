@@ -1,0 +1,18 @@
+h1 {
+  font-style: italic;
+}
+h1 {
+  color: #61481C;
+
+}
+hr {
+    border-width: thick;
+    border-top-style:double;
+    width:20%
+}
+body {
+  background-color: #FFE162;
+}
+h2 {
+  color: #1A5F7A;
+}
